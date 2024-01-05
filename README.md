@@ -1,5 +1,6 @@
 # Apple's SwiftUI course
 [Source](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+[Forum](https://developer.apple.com/forums/tags/swiftui/)
 
 
 # Creating and combining views
