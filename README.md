@@ -26,6 +26,11 @@
 
 # Animating views and transitions
 
-
 https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/6226b817-3d31-48a2-af19-c13b021eefc4
+
+
+# Composing complex interfaces
+
+https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/1fab086c-edbb-4a62-97d0-c4c0e9acc638
+
 
