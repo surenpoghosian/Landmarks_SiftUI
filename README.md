@@ -22,3 +22,10 @@
 # Drawing paths and shapes
 
 <img width="615" alt="Screenshot 2024-01-06 at 13 09 07" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/57e02297-e6a9-431e-9960-60f554af718a">
+
+
+# Animating views and transitions
+
+
+https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/6226b817-3d31-48a2-af19-c13b021eefc4
+
