@@ -17,3 +17,8 @@
 <img width="618" alt="Screenshot 2024-01-06 at 00 43 36" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/3d252f42-edcb-42a1-ab6d-ae0b99d1e2bf">
 <img width="619" alt="Screenshot 2024-01-06 at 00 43 27" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/901886d9-32e1-4f55-b621-93949811bb6a">
 <img width="620" alt="Screenshot 2024-01-06 at 00 43 47" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/5b2baabb-73b9-42e3-af13-7f675868beaa">
+
+
+# Drawing paths and shapes
+
+<img width="615" alt="Screenshot 2024-01-06 at 13 09 07" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/57e02297-e6a9-431e-9960-60f554af718a">
