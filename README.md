@@ -33,4 +33,12 @@ https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/6226b817-3d3
 
 https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/1fab086c-edbb-4a62-97d0-c4c0e9acc638
 
+# Working with UI controls
+
+<img width="616" alt="Screenshot 2024-01-06 at 14 16 42" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/c624bea2-c041-47a1-aa1d-d1c46fe628ac">
+<img width="620" alt="Screenshot 2024-01-06 at 14 16 33" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/5248400e-3c7b-4291-b4a9-cd1c20c008ee">
+<img width="620" alt="Screenshot 2024-01-06 at 14 16 25" src="https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/68b26e12-a33a-4322-b61b-1cfac4cba7d8">
+https://github.com/surenpoghosian/Landmarks_SwiftUI/assets/56313895/1a19c378-bd81-400d-b46a-7106fedd3192
+
+
 
